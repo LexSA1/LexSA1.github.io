@@ -69,7 +69,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOLTZHAUSEN'S</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOLTZHAUSEN'S</a>",
           "_tags": [
             "Theme"
           ],
@@ -426,7 +426,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>PO. Box 1239<br>Hyper By The Sea<br>4053<br><br>\n<strong>CONTACTS</strong><br>\nEmail: Sales@holtzhausens.co.za<br>\nPhone: 072 716 8835<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://cabinetsdbn.co.za\" target=\"_blank\">C</a>abinetsDBN</li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://habdymandbn.co.za\" target=\"_blank\">H</a>andymanDBN</li><li><br></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://cabinetsdbn.co.za\" target=\"_blank\">C</a>abinetsDBN</li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://handymandbn.co.za\" target=\"_blank\">H</a>andymanDBN</li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
