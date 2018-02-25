@@ -426,7 +426,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>PO. Box 1239<br>Hyper By The Sea<br>4053<br><br>\n<strong>CONTACTS</strong><br>\nEmail: Sales@holtzhausens.co.za<br>\nPhone: 072 716 8835<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://cabinetsdbn.co.za\" target=\"_blank\">C</a>abinetsDBN</li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://handymandbn.co.za\" target=\"_blank\">H</a>andymanDBN</li><li><br></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://cabinetsdbn.co.za\" target=\"_blank\">CabinetsDBN</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://handymandbn.co.za\" target=\"_blank\">HandymanDBN</a></li><li><a href=\"http://facebook.com/holtzhausens\" class=\"text-gray\">Facebook Holtzhausen's</a></li></ul>",
           "_tags": [
             "Theme"
           ],
