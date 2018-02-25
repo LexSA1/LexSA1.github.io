@@ -83,7 +83,7 @@
             "showText": true,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1638x1080.jpg",
             "parallax": true,
