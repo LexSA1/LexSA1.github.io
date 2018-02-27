@@ -131,7 +131,7 @@
                 "title": "Our Kitchens",
                 "contentAlign": "right",
                 "text": "What started as a personal project, kitchen and bedroom cabinet manufacturing soon became our life calling, as we realised the need for affordable, yet quality crafted cabinetry, not only in our own homes, but that of our neighbours and friends, and their friends. Today we have a business still focused on the same qualities, passion and love for the trade.\n<br>Visit our dedicated CabinetDBN site here!&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://cabinetsdbn.co.za\" data-toolbar=\"-mbrBtnMove\">CabinetsDBN</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://cabinetsdbn.co.za\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CabinetsDBN</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.5"
               },
@@ -426,7 +426,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>PO. Box 1239<br>Hyper By The Sea<br>4053<br><br>\n<strong>CONTACTS</strong><br>\nEmail: Sales@holtzhausens.co.za<br>\nPhone: 072 716 8835<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://cabinetsdbn.co.za\" target=\"_blank\">CabinetsDBN</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://handymandbn.co.za\" target=\"_blank\">HandymanDBN</a></li><li><a href=\"http://facebook.com/holtzhausens\" class=\"text-gray\">Facebook Holtzhausen's</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://cabinetsdbn.co.za\" target=\"_blank\">CabinetsDBN</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://handymandbn.co.za\" target=\"_blank\">HandymanDBN</a></li><li><a href=\"http://facebook.com/holtzhausens\" class=\"text-gray\" target=\"_blank\">Facebook Holtzhausen's</a></li></ul>",
           "_tags": [
             "Theme"
           ],
