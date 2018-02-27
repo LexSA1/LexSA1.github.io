@@ -14,7 +14,8 @@
     "siteUrl": "undefined",
     "versionFirst": "4.6.5",
     "uniqCompNum": 7,
-    "versionPublish": "4.6.5"
+    "versionPublish": "4.6.5",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -33,7 +34,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -47,10 +48,10 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#2c2c2c",
+            "color": "#2c82c9",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-2\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-4\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-2\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-4\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -60,8 +61,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "http://holtzhausens.co.za",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -93,9 +93,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "Welcome to Holtzhausen's",
           "text": "We are a family owned business, focused on client satisfaction, in all branches of our trade.\n<br>Since 2008, we strived to deliver unequalled service to clients needing timber furniture, kitchen and bedroom cabinets, bathroom vanities, aluminium windows, and the odd art piece, created by one of our talented family members. We love what we do, and hope it shows!<br>",
@@ -124,16 +124,16 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/cabinetsdbn-kitchen-1600x700.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Our Kitchens",
                 "contentAlign": "right",
-                "text": "What started as a personal project, kitchen and bedroom cabinet manufacturing soon became our life calling, as we realised the need for affordable, yet quality crafted cabinetry, not only in our own homes, but that of our neighbours and friends, and their friends. Today we have a business still focused on the same qualities, passion and love for the trade.\n<br>Visit our CabinetDBN site here!&nbsp;<br>",
+                "text": "What started as a personal project, kitchen and bedroom cabinet manufacturing soon became our life calling, as we realised the need for affordable, yet quality crafted cabinetry, not only in our own homes, but that of our neighbours and friends, and their friends. Today we have a business still focused on the same qualities, passion and love for the trade.\n<br>Visit our dedicated CabinetDBN site here!&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://cabinetsdbn.co.za\" data-toolbar=\"-mbrBtnMove\">CabinetsDBN</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/aluminium-window-coloured-1200x800.jpg",
@@ -149,7 +149,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/contractors-1800x1076.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -229,7 +229,7 @@
             }
           },
           "title1": "General Maintenance",
-          "caption1": "We would love to help you with those nasy maintenance jobs. We love to paint, seal, hang pictures, and clean roofs amongst others!",
+          "caption1": "We would love to help you with those nasty maintenance jobs. We love to paint, seal, hang pictures, and clean roofs amongst others!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -252,7 +252,7 @@
             }
           },
           "title2": "<br><br>Building Alterations",
-          "caption2": "Need us to move that horrible wall? No Problem!<br>A new wall right here? Done!",
+          "caption2": "Need us to move that horrible wall? No Problem!<br>A new wall right here? Done!<br>We will also be able to change doors, and windows as required.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -275,7 +275,7 @@
             }
           },
           "title3": "<br><br>Tiling",
-          "caption3": "Walls, Floors, outdoors, porcelein or ceramic. No tiling job is too small. We have the best in the trade!",
+          "caption3": "Walls, Floors, outdoors, porcelain or ceramic. No tiling job is too small. We have the best in the trade!",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -298,7 +298,7 @@
             }
           },
           "title4": "<br><br><br>Electrical",
-          "caption4": "Sometimes you need to move an outlet. Sometimes you need to wire a new addition or a complete home. Our Coded electritians will gladly handle this for you.",
+          "caption4": "Sometimes you need to move an outlet. Sometimes you need to wire a new addition or a complete home. Our Coded electricians will gladly handle this for you.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -321,7 +321,7 @@
             }
           },
           "title5": "<br><br><br>Plumbing",
-          "caption5": "Nothing fustrates more than a leaky fauset or supply line. We got the right guy for you!<br>No more drips please!",
+          "caption5": "Nothing frustrates  more than a leaky faucet or supply line. We got the right guy for you!<br>No more drips please!",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -344,7 +344,7 @@
             }
           },
           "title6": "<br><br>Roofing and waterproofing",
-          "caption6": "Generally the most overlooked part of any home, yet the most important. What is worst than not having one over your head? Keep your maintained at all times.&nbsp;",
+          "caption6": "Generally the most overlooked part of any home, yet the most important. What is worse than not having one over your head? Keep yours maintained at all times.&nbsp;",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
