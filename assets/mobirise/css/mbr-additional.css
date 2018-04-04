@@ -1755,7 +1755,7 @@ body {
   color: #767676 !important;
 }
 .cid-qNJvdZ6SZI {
-  background-image: url("../../../assets/images/im2016010393em-300dpi-2000x1194.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
 }
 .cid-qNJvdZ6SZI .form-container {
   transition: all .2s;
@@ -1804,8 +1804,8 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: #ff0b0b;
+  background: linear-gradient(to left, #ff0b0b, #45505b) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -1834,8 +1834,8 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: #ff0b0b !important;
+  background: linear-gradient(to left, #ff0b0b, #45505b) !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
