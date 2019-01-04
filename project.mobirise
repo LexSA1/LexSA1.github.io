@@ -47,7 +47,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20big-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-big-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -260,7 +260,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
           "text1": "<b>CabinetsDBN</b><br><b>We make space for You!<br></b><br><br>\n<strong>Contacts</strong><br>\nEmail: sales@cabinetsdbn.co.za<br>Mobile: 072 716 8835<br>\nPhone: 031 705 1108",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://facebook.com/cabinetsdbn\" target=\"_blank\">Facebook Page</a></li><li><a href=\"http://holtzhausens.co.za\">Holtzhausen Works</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://facebook.com/cabinetsdbn\" target=\"_blank\">Facebook Page</a></li><li><a href=\"http://holtzhausens.co.za\" target=\"_blank\">Holtzhausen Works</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "sales@cabinetsdbn.co.za",
